@@ -1,0 +1,15 @@
+{
+  "name": "yandex-ads-react-native",
+  "version": "1.0.0",
+  "description": "react native plugin for yandex mobile ads sdk",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

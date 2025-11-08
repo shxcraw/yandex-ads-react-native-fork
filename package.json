@@ -1,7 +1,7 @@
 {
-  "name": "yandex-ads-react-native-fork",
+  "name": "@shxcraw/yandex-ads-react-native-fork",
   "version": "1.0.0",
-  "description": "react native plugin for yandex mobile ads sdk",
+  "description": "Fixed React Native wrapper for Yandex Mobile Ads SDK",
   "main": "index.js",
   "directories": {
     "lib": "lib"

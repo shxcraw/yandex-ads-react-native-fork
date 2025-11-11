@@ -1,6 +1,6 @@
 {
   "name": "@shxcraw/yandex-ads-react-native-fork",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fixed React Native wrapper for Yandex Mobile Ads SDK",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -107,10 +107,6 @@
   },
   "packageManager": "yarn@4.2.2",
   "homepage": "https://github.com/shxcraw/yandex-ads-react-native-fork",
-  "author": {
-    "name": "Anton Karelin",
-    "email": "ant.karelin@gmail.com",
-    "url": "https://github.com/shxcraw"
-  },
+  "authors": "ant.karelin@gmail.com",
   "license": "ISC"
 }
